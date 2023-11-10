@@ -1,1 +1,1 @@
- export const serverURL = "http://localhost:7000"
+ export const serverURL = "https://server-j35q.onrender.com"
